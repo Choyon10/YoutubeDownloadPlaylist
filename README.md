@@ -1,15 +1,19 @@
-# YoutubeDownloadPlaylist
-Youtube files Download
+# Download Youtube Playlist
+Download Youtube files entire playlist videos files or single video file.
 
-download entire playlist videos or single video.
-requirement 
-python
+# Pre-requirement 
+python2 or python3
 pip install pytube
 pip install urllib
 pip install bs4
 
 
-
-file: stored in "C:\" drive with given name, like 'enter folder name : '
-Youtube link: 'enter Youtube url-link  : '
+# How to run
+  Single file in terminal or console windows/Linux.
+    # python youtubeDownloader.py urlpath
+    # Example: python youtubeDownloader.py https://www.youtube.com/watch?v=d07SayjuLJk 
+    
+  Playlist files in terminal or console windows/Linux.
+    # python youtubeDownloader.py urlpath
+    # Example: python youtubeDownloader.py https://www.youtube.com/playlist?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG
 
