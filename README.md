@@ -9,11 +9,12 @@ pip install bs4
 
 
 # How to run
-  Single file in terminal or console windows/Linux.
-    # python youtubeDownloader.py urlpath
-    # Example: python youtubeDownloader.py https://www.youtube.com/watch?v=d07SayjuLJk 
+
+# Single file in terminal or console windows/Linux.
+python youtubeDownloader.py urlpath    
+Example: python youtubeDownloader.py https://www.youtube.com/watch?v=d07SayjuLJk 
     
-  Playlist files in terminal or console windows/Linux.
-    # python youtubeDownloader.py urlpath
-    # Example: python youtubeDownloader.py https://www.youtube.com/playlist?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG
+# Playlist files in terminal or console windows/Linux.
+python youtubeDownloader.py urlpath
+Example: python youtubeDownloader.py https://www.youtube.com/playlist?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG
 
