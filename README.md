@@ -1,5 +1,5 @@
 # Download Youtube Playlist
-Download Youtube files entire playlist videos files or single video file.
+Download Youtube entire playlist videos files or single video file.
 
 # Pre-requirement 
 python2 or python3
