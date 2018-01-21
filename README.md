@@ -4,7 +4,7 @@ Download Youtube entire playlist video files or single video file.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and Execution purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get idea of the project up and running on your local machine for development and Execution purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## How it works
 ```
@@ -50,6 +50,6 @@ Example 2 Playlist : python youtubeDownloader.py https://www.youtube.com/playlis
 ## Authors
 
 * **Niranjan Kumar G S** - *Complete work* - [Guithub](https://github.com/niranjangs4)
-* **niranjan4@outlook.in**
+* **Email : niranjan4@outlook.in**
 
 
