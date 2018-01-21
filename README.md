@@ -10,9 +10,9 @@ These instructions will get idea of the project up and running on your local mac
 ```
 This script to download youtube videos with high definaton and high speed x50times accuracy.
 Download files in same folder where you run script.
-If youtube url link has 'watch' it means single file like:https://www.youtube.com/```**watch**```?v=d07SayjuLJk 
+If youtube url link has 'watch' - word it means single file like:https://www.youtube.com/watch?v=d07SayjuLJk 
         or
-If youtube url link has 'Playlist' it means multiple file in that playlist like : https://www.youtube.com/playlist?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG
+If youtube url link has 'Playlist' - word it means multiple file in that playlist like : https://www.youtube.com/playlist?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG
 all files Download in same folder
 ``` 
 ### Prerequisites
